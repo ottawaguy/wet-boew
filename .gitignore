@@ -21,3 +21,4 @@ csslint.out.xml
 *.orig
 *.tmp
 *.log
+/WET-BOEW/nbproject/private/
